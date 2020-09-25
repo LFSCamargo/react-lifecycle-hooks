@@ -96,8 +96,8 @@ const App = () => {
 
 ### Params:
 
-```tsx
-- `value`: Its a  Generic Type for the `value` it already infers the type
+```md
+- `value`: Its a Generic Type for the `value` it already infers the type
 ```
 
 ### Returns:
