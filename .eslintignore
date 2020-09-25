@@ -1,0 +1,5 @@
+.prettierc.js
+commitlint.config.js
+node_modules/
+dist/
+my-website/
